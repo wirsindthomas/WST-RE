@@ -1,0 +1,4 @@
+Zend:
+  repo: git://github.com/gjorquera/zend-framework.git
+  path: library/
+
